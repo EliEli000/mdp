@@ -77,23 +77,4 @@ def debut():
 debut()
 
 
-
-
-#rajouter moyen de choisir entre mot de passe pour linux (plus de caractères disponibles) et mot de passe pur windows (moins de disponibles) > FAIT
-#Rajouter la fonction qui genere aleatoirement mdp pour linux (rajouter donc les caracteres spéciaux) > FAIT
-
-#nouvelles idées ?
-#peut être essayer de rajouter un cracker de mdp, ou le moyen de transformer un mot de passe en hashe
-#https://docs.python.org/3/library/hashlib.html (lis ça en vrai )
-#https://thepythoncode.com/article/crack-hashes-in-python
-
-
-
-
-
-
-
-
-
-
-
+d
