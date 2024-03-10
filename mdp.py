@@ -53,7 +53,7 @@ def linux():
 def hashage():
 	choix = input("Merci d'entrer le mot de passe à hacher  : \n \n ")
 	choix_encodage = choix.encode('utf-8')
-	salt = 'pd'.encode()
+	salt = '393848492dkfdfj4994'.encode()
 	our_app_iters = 500_000
 	mdp = hashlib.pbkdf2_hmac('sha256',choix_encodage,salt,our_app_iters)
 	hachage = mdp.hex()
