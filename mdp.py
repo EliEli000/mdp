@@ -60,7 +60,7 @@ def hashage():
 
 
 
-	print("Voici votre hashage :",hachage)
+	print("Voici votre hash :",hachage)
 
 
 
